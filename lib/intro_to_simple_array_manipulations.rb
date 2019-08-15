@@ -1,2 +1,2 @@
-using_push = [next_color, "colors_in_the_rainbow"]
-using_push.push
+using_push = [next_color, green, yellow, red, blue]
+using_push.push(orange)
