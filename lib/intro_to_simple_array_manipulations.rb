@@ -25,5 +25,5 @@ p shift_with_args
 
 [ "Study", "read" ].concat( ["swim", "eat"] ) 
 
-using_insert = %w{ a b c d }
+using_insert = %w{ java, js, b c d }
 using_insert.insert(2, 99)
