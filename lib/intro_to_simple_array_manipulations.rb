@@ -32,4 +32,5 @@ p using_insert
 using_uniq = ["fade", "fade", "flat_top", "flat_top", "ceasar"]
 using_uniq.uniq
 
-using_flatten = [trumpet, basoon, tuba,]
+using_flatten = ["trumpet", ["basoon", "tuba"], "flute"]
+using_flatten.flatten
