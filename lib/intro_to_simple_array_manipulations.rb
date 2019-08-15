@@ -11,4 +11,6 @@ using_pop = ["africa", "asia", "north_america"]
 north_america = using_pop.pop
 p using_pop
 
-pop_with_args = [poodle, ]
+pop_with_args = [poodle, beagle, pug]
+pop_with_args.pop(2)
+pop_with_args
