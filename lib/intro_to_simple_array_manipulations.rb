@@ -14,3 +14,6 @@ p using_pop
 pop_with_args = ["poodle", "beagle", "pug"]
 pop_with_args.pop(2)
 pop_with_args
+
+using_shift = []
+p using_shift
