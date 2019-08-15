@@ -38,3 +38,5 @@ using_flatten.flatten
 using_delete = [instructors, "Steven"]
 using_delete.delete("Steven")
 
+using_delete_at = [famous_robots, 2]
+using_delete_at.delete([2])
