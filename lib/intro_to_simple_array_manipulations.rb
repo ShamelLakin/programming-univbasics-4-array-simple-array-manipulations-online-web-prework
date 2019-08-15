@@ -32,3 +32,4 @@ p using_insert
 using_uniq = ["fade", "fade", "flat_top", "flat_top", "ceasar"]
 using_uniq.uniq
 
+using_flatten = 
