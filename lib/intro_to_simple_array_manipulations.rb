@@ -16,5 +16,7 @@ pop_with_args.pop(2)
 pop_with_args
 
 using_shift = ["new_york", "florida"]
-using_shift.shift(2)
+florida = using_shift.shift
 p using_shift
+
+shift_with_args = []
