@@ -3,7 +3,7 @@ using_push.push("orange")
 p using_push
 
 
-using_unshift = [ "b", "c", "d" ]
+using_unshift = [ "queens", "brooklyn", "manhattan" ]
 using_unshift.unshift("a")
 p using_unshift
 
