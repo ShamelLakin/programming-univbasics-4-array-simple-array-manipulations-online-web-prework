@@ -29,4 +29,4 @@ using_insert = %w{ java js python c# css }
 using_insert.insert(2, ruby)
 p using_insert
 
-using_uniq
+using_uniq = []
