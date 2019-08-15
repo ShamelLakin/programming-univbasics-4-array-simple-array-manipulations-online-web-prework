@@ -3,3 +3,5 @@ using_push.push("orange")
 
 using_unshift = [ "b", "c", "d" ]
 using_unshift.unshift("a")
+
+using_pop = []
