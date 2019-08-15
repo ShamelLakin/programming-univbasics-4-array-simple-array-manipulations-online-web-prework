@@ -35,4 +35,4 @@ using_uniq.uniq
 using_flatten = ["trumpet", ["basoon", "tuba"], "flute"]
 using_flatten.flatten
 
-using_flatten
+using_flatten = [instructors, "Steven"]
